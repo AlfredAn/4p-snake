@@ -1,6 +1,6 @@
 # 4-player snake
 
-A multiplayer snake game I made in 2014. Requires NetBeans to build, but a prebuild jar is available in the dist folder.
+A multiplayer snake game I made in 2014. Requires NetBeans to build, but a prebuilt jar is available in the dist folder.
 
 The rules in multiplayer mode are as follows:
 - If all players are dead, the player with the highest score wins.
